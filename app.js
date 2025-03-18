@@ -43,3 +43,14 @@ function sortearAmigo() {
         setTimeout(limparTela, 5000);
     }
 }
+function limparCampo() {
+    let campo = document.getElementById('amigo');
+    campo.value = "";
+}
+
+function limparTela() {
+    listaDeAmigos = [];
+    atualizarLista();
+    exibirTextoNaTela('#resultado', '');
+    limparCampo();
+}
