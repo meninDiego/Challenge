@@ -1,6 +1,9 @@
 🎉 Sorteador de Amigos
 Um simples sorteador de amigos feito em JavaScript para facilitar o processo de escolher um nome aleatório de uma lista.
 
+Git Pages
+https://menindiego.github.io/Challenge/
+
 🚀 Funcionalidades
 ✅ Adicionar amigos à lista
 ✅ Impedir nomes duplicados
