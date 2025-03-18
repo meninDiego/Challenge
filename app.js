@@ -32,3 +32,14 @@ function atualizarLista() {
         lista.appendChild(itemLista);
     }
 }
+function sortearAmigo() {
+    if (listaDeAmigos.length === 0) {
+        alert("Adicione pelo menos um nome antes de sortear!");
+    } else {
+        let indiceAleatorio = Math.floor(Math.random() * listaDeAmigos.length);
+        let amigoSorteado = listaDeAmigos[indiceAleatorio];
+
+        exibirTextoNaTela('#resultado', `🎉 O amigo sorteado foi: <strong>${amigoSorteado}</strong>!`);
+        setTimeout(limparTela, 5000);
+    }
+}
