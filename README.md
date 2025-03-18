@@ -25,7 +25,7 @@ JavaScript
 
 
 2️⃣ Acesse a pasta do projeto:
-cd nome-do-repositorio
+Pasta onde sera baixado o projeto
 
 
 3️⃣ Abra o arquivo index.html no navegador.
