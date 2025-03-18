@@ -21,7 +21,7 @@ JavaScript
 
 📦 Como Usar
 1️⃣ Clone o repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+[git clone https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/meninDiego/Challenge/tree/main)
 
 
 2️⃣ Acesse a pasta do projeto:
